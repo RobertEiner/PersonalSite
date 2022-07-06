@@ -1,0 +1,311 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #1e2524;
+}
+
+.top-container {
+    background-color: #D6E5FA;   
+    padding-top: 100px;  
+    position: relative;
+    
+}
+
+.middle-container {
+    background-color: #D6E5FA;
+    padding-bottom: 80px;
+}
+
+.bottom-container {
+    background-color: #a8c8f5;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+
+.programmer {
+    padding-bottom: 125px;
+}
+
+.seagull-pic {
+height: 100px;
+position: absolute;
+right: 300px;
+top: 200px;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+p {
+    line-height: 1.5;
+}
+
+hr {
+    border: dotted #b1bed1 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+}
+
+h1 {
+    color: #66BFBF;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive; 
+    font-size: 300%;
+    
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+   
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.h3-contactMe {
+    padding-bottom: 30px;
+}
+
+.skills {
+    padding-top: 30px;
+}
+
+.skill-row-1 {
+    width: 50%;
+    margin: 30px auto 30px auto; 
+    text-align: left;
+}
+
+.skill-row-2 {
+    width: 50%;
+    margin: 80px auto 30px auto; 
+    text-align: left;
+    
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    top: 190px;
+}
+
+.hello-text {
+    font-family: 'Montserrat', sans-serif;
+    width: 30%;
+    margin: auto;
+}
+
+.profile-pic {
+    height: 140px;
+    padding-top: 30px;
+}
+
+.programming-pic {
+    width: 18%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.diving-pic {
+    width: 20%;
+    float: right;
+    margin-right: 30px;
+}
+
+.swimmer {
+    margin-right: 30px;
+    height: 60px; 
+}
+
+
+.bicycle {
+    margin-right: 30px;
+    height: 60px;
+}
+
+.camping {
+    margin-right: 30px;
+    height: 50px;
+}
+
+.cooking {
+    height: 50px;
+}
+
+/*.table {
+    position: absolute;
+    left: 40%;
+    padding-bottom: 200px;
+} */
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #13b9bf;
+    padding: 10px 20px 10px 20px;
+    border: solid #13b9bf 2px;
+    text-decoration: none;
+    margin-top: 30px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    text-decoration: none;
+  }
+
+  .copyright {
+    color: #EAF6F6;
+  }
+
+  .linkedIn-link {
+    margin-right: 30px;
+  }
+
+
+
+/********************************** CREDITS-CSS ***********************************/
+
+.body-credits {
+    background-color: #D6E5FA;
+    text-align: center;
+}
+
+.sun-pic {
+    height: 150px;
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+
+.programming-credits-pic {
+    height: 30px;
+    padding-top: 100px;
+    padding-right: 20px;
+}
+
+ .programming-ref {
+    padding-bottom: 30px;
+}
+
+
+.swimmer-credits-pic {
+    height: 30px;
+    padding-top: 20px; 
+    padding-right: 20px;  
+}
+
+.swimming-ref {
+    padding-bottom: 30px;
+}
+
+.bicycle-credits-pic {
+    height: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.bike-ref {
+    padding-bottom: 30px;
+}
+
+.camping-credits-pic {
+    height: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.camping-ref {
+    padding-bottom: 30px;
+}
+
+.cooking-credits-pic {
+    height: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.cooking-ref {
+    padding-bottom: 30px;
+}
+
+.sun-credits-pic {
+    height: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.sun-ref {
+    padding-bottom: 30px;
+}
+
+.seagull-credits-pic {
+    height: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.seagull-ref {
+    padding-bottom: 30px;
+} 
+
+.scuba-credits-pic {
+    height: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.scuba-ref {
+    padding-bottom: 30px;
+}
+
+.cloud-credits {
+    position: absolute;
+    top: 130px;
+    left: 100px;
+   
+}
+
+.top-cloud-credits {
+    position: absolute;
+    right: 400px;
+    top: 30px;
+}
+
+.bottom-cloud-credits {
+    position: absolute;
+    left: 280px;
+    top: 100px;
+}
+
+
+
+
+
+
+
